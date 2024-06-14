@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jennifher Pamela Chugchilan Bustamante
-- Tengo 18 años vivo en el sur de Quito 
+- Tengo 22 años vivo en el sur de Quito 
 - 👀 I’m interested in  aprender cada dia mas y  ser buena persona, tambien tengo interes por el futbol y el box
 - 🌱 I’m currently learning  desarrollo de software
 - 💞️ I’m looking to collaborate on  una fundacion de perritos de la  calle ya que soy auxiliar de veterinaria 
-- 📫 How to reach me  mi numero telefonico es el 099760696 o por mi Gmail jpb.chugchilan@yavirac.edu.ec
+- 📫 How to reach me  mi numero telefonico es el 099760696 o por mi Gmail pamelachugchilan23@gmail.com
 
 <!---
 jennifher23/jennifher23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your Github
